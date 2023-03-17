@@ -80,7 +80,7 @@ export const CARD_TYPES = [
     format: DEFAULT_CARD_FORMAT,
     startPattern: /^62/,
     gaps: [4, 8, 12],
-    lengths: [16],
+    lengths: [16, 17, 18, 19],
     code: {
       name: 'CVN',
       length: 3
